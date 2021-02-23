@@ -7,3 +7,6 @@ I would sell the skills required to install, use, and maintain this software as 
 
 ## License
 I used the GNU GPL v3 license because I want to have collaborators without any issues of getting harassed by patent claims, no matter how bogus they are (if software like this takes off, inevitably they will come up). Also, since the license requires anyone who decides to publicly release a modified version of my project to release their source code as well, I would be able to look at changes made from that as inspiration for my own distribution.
+
+### Contributors
+Aayush Sriram
